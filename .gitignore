@@ -2,3 +2,4 @@
 .venv
 
 manual_articles.txt
+__pycache__/
