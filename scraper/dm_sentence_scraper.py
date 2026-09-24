@@ -132,6 +132,7 @@ ARTICLE_URL_RE = re.compile(r'https://www\.dailymirror\.lk/[^"\s]+?/\d+-\d+')
 END_PUNCT_RE = re.compile(r'\.[\"\'\u2018\u2019\u201c\u201d]?$')  # "." optionally + closing quote
 INVISIBLE_RE = re.compile(r'[\u200b\u200c\u200d\u2060\ufeff\u00ad]')  # zero-width chars DM scatters through text
 ABBREV_END_RE = re.compile(r'\b(?:No|Rs|Mr|Mrs|Ms|Dr|St|Co|Ltd|Inc|Jr|Sr|vs)\.$')  # split after an abbreviation
+ABBREV_START_RE = re.compile(r'^(?:Ltd|Co|Inc|Pvt|Plc)\b')  # remainder of a sentence split after 'Pvt.'
 
 # ------------------------------------------------------------- HELPERS -----
 
@@ -239,7 +240,7 @@ def classify_sentence(sentence):
         return False, "all_caps"
     if any(m in s.lower() for m in CAPTION_MARKERS):
         return False, "caption_marker"
-    if ABBREV_END_RE.search(s):
+    if ABBREV_END_RE.search(s) or ABBREV_START_RE.match(s):
         return False, "abbrev_fragment"
     if s.count('"') % 2 or s.count("“") != s.count("”"):
         return False, "unbalanced_quotes"   # piece of a longer quotation

@@ -1,0 +1,14 @@
+# tagger, grammar, parser, evaluation
+nltk==3.10.3
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+# notebooks
+ipykernel==7.3.0
+nbconvert==7.17.1
+nbformat==5.11.1
+# scraper/ (sentence collection only)
+playwright==1.63.0
+trafilatura==2.2.0
+feedparser==6.0.14
+beautifulsoup4==4.15.0
