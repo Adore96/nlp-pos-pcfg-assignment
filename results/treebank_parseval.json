@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "horz_markov": 1,
+    "vert_markov": 1,
+    "beam": 40,
+    "max_sentence_length": 40,
+    "rules": 18628
+  },
+  "ablation": [
+    {
+      "horz_markov": 1,
+      "vert_markov": 0,
+      "rules": 15990,
+      "sentences": 359,
+      "labeled_precision": 0.7554706495310872,
+      "labeled_recall": 0.7215126886714215,
+      "labeled_f1": 0.7381012980402137,
+      "coverage": 0.9972144846796658,
+      "tagging_accuracy": 0.947286419111919,
+      "seconds": 163.12271404266357
+    },
+    {
+      "horz_markov": 2,
+      "vert_markov": 0,
+      "rules": 17686,
+      "sentences": 359,
+      "labeled_precision": 0.7596940590537176,
+      "labeled_recall": 0.7084093547852048,
+      "labeled_f1": 0.7331559522787743,
+      "coverage": 0.9721448467966574,
+      "tagging_accuracy": 0.9497668221185877,
+      "seconds": 133.3374798297882
+    },
+    {
+      "horz_markov": 1,
+      "vert_markov": 1,
+      "rules": 18628,
+      "sentences": 359,
+      "labeled_precision": 0.7849462365591398,
+      "labeled_recall": 0.7264886382484658,
+      "labeled_f1": 0.7545869583943493,
+      "coverage": 0.9916434540389972,
+      "tagging_accuracy": 0.957316277248401,
+      "seconds": 138.2596697807312
+    },
+    {
+      "horz_markov": 2,
+      "vert_markov": 1,
+      "rules": 20808,
+      "sentences": 359,
+      "labeled_precision": 0.7717196996782266,
+      "labeled_recall": 0.7160391441366728,
+      "labeled_f1": 0.7428374774154693,
+      "coverage": 0.9888579387186629,
+      "tagging_accuracy": 0.9554507337526206,
+      "seconds": 144.52800822257996
+    }
+  ],
+  "heldout": {
+    "joint": {
+      "sentences": 359,
+      "labeled_precision": 0.7849462365591398,
+      "labeled_recall": 0.7264886382484658,
+      "labeled_f1": 0.7545869583943493,
+      "coverage": 0.9916434540389972,
+      "tagging_accuracy": 0.957316277248401,
+      "seconds": 131.52095341682434
+    },
+    "hmm_pipeline": {
+      "sentences": 359,
+      "labeled_precision": 0.6726612170753861,
+      "labeled_recall": 0.6141980427931664,
+      "labeled_f1": 0.6421016126235478,
+      "coverage": 0.9805013927576601,
+      "tagging_accuracy": 0.9155449986803906,
+      "seconds": 89.1085593700409
+    },
+    "gold_tags": {
+      "sentences": 359,
+      "labeled_precision": 0.8193665158371041,
+      "labeled_recall": 0.7508707911759828,
+      "labeled_f1": 0.7836247187121343,
+      "coverage": 0.9888579387186629,
+      "tagging_accuracy": 1.0,
+      "seconds": 114.5104308128357
+    }
+  }
+}

@@ -1,0 +1,2465 @@
+#1  The Brent benchmark hit its lowest since September 8 in the previous session at $97.36.
+log P = -110.10
+(TOP
+  (S
+    (NP (DT The) (NNP Brent) (NN benchmark))
+    (VP
+      (VBD hit)
+      (PP
+        (NP (PRP$ its) (JJS lowest))
+        (IN since)
+        (NP (NNP September) (CD 8)))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (JJ previous) (NN session))
+          (PP (IN at) (NP ($ $) (CD 97.36))))))
+    (. .)))
+
+#2  Iran repeated its demand for the US to end its "acts of aggression".
+log P = -95.05
+(TOP
+  (S
+    (NP (NNP Iran))
+    (VP
+      (VBD repeated)
+      (NP
+        (NP (PRP$ its) (NN demand))
+        (PP (IN for) (NP (DT the) (NNP US))))
+      (S
+        (TO to)
+        (VP
+          (VB end)
+          (S
+            (NP (PRP$ its))
+            (`` ``)
+            (NP (NP (NNS acts)) (PP (IN of) (NP (NN aggression))))
+            ('' '')))))
+    (. .)))
+
+#3  Other notable blocks were recorded in SIRA.N, DIPD.N, TJL.N and Softlogic Life.
+log P = -108.54
+(TOP
+  (S
+    (NP (NP (JJ Other)) (ADJP (JJ notable)))
+    (VP
+      (VBZ blocks)
+      (VP
+        (VBD were)
+        (VP
+          (VBN recorded)
+          (PP
+            (IN in)
+            (NP
+              (NAC (NNP SIRA.N) (, ,) (NNP DIPD.N) (, ,))
+              (NNP TJL.N)
+              (CC and)
+              (NP (NNP Softlogic) (NNP Life)))))))
+    (. .)))
+
+#4  The buying interest continued to dominate the market sentiment.
+log P = -54.17
+(TOP
+  (S
+    (NP (DT The) (VBG buying) (NN interest))
+    (VP
+      (VBD continued)
+      (S
+        (TO to)
+        (VP (VB dominate) (NP (DT the) (NN market) (NN sentiment)))))
+    (. .)))
+
+#5  Committee members also expressed their views on the proposed legislation.
+log P = -71.37
+(TOP
+  (S
+    (NP (NNP Committee) (NNS members))
+    (ADVP (RB also))
+    (VP
+      (VBD expressed)
+      (NP (PRP$ their) (NNS views))
+      (PP (IN on) (NP (DT the) (VBN proposed) (NN legislation))))
+    (. .)))
+
+#6  Under the earlier methodology, youth unemployment had reached 21.3 per cent in June 2023.
+log P = -103.77
+(TOP
+  (S
+    (PP (IN Under) (NP (DT the) (JJR earlier) (NN methodology)))
+    (, ,)
+    (NP (NN youth) (NN unemployment))
+    (VP
+      (VBD had)
+      (VP
+        (VBN reached)
+        (NP (NP (CD 21.3)) (PP (IN per) (NP (NN cent))))
+        (PP (IN in) (NP (NNP June) (CD 2023)))))
+    (. .)))
+
+#7  New Zealand's parliament last week passed legislation needed to implement the agreement.
+log P = -98.71
+(TOP
+  (S
+    (NP
+      (NP (NP (NNP New) (NNP Zealand) (POS 's)) (NN parliament))
+      (JJ last)
+      (NN week))
+    (VP
+      (VBD passed)
+      (SBAR
+        (NP (NN legislation))
+        (VP
+          (VBD needed)
+          (S
+            (TO to)
+            (VP (VB implement) (NP (DT the) (NN agreement)))))))
+    (. .)))
+
+#8  The DHS did not immediately comment.
+log P = -43.44
+(TOP
+  (S
+    (NP (DT The) (NNP DHS))
+    (VP (VBD did) (RB not) (ADVP (RB immediately)) (VP (VB comment)))
+    (. .)))
+
+#9  Evoke Labs served as IT Partner, while Liyasi TV was the Television Partner.
+log P = -102.06
+(TOP
+  (S
+    (NP (NNP Evoke) (NNP Labs))
+    (VP
+      (VBD served)
+      (RB as)
+      (S (NP (PRP IT)) (ADJP (JJR Partner)))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP (NNP Liyasi) (NNP TV))
+          (VP (VBD was) (NP (DT the) (NNP Television) (NNP Partner))))))
+    (. .)))
+
+#10  Vidullanka cautioned that emerging as the lowest-cost bidder did not constitute a formal contract award.
+log P = -106.44
+(TOP
+  (S
+    (NP (NNP Vidullanka))
+    (VP
+      (VBD cautioned)
+      (PP
+        (IN that)
+        (S
+          (VBG emerging)
+          (SBAR
+            (IN as)
+            (S
+              (NP (DT the) (JJ lowest-cost) (NN bidder))
+              (VP
+                (VBD did)
+                (RB not)
+                (VP
+                  (VBP constitute)
+                  (NP (DT a) (JJ formal) (NN contract) (NN award)))))))))
+    (. .)))
+
+#11  The bench comprised Judges Navaratne Marasinghe, Ramanathan Kannan and Sujeewa Nissanka.
+log P = -66.94
+(TOP
+  (S
+    (NP (DT The) (NN bench))
+    (VP
+      (VBD comprised)
+      (NP (NNS Judges))
+      (NP
+        (NP (NNP Navaratne) (NNP Marasinghe))
+        (, ,)
+        (NP (NNP Ramanathan) (NNP Kannan))
+        (CC and)
+        (NP (NNP Sujeewa) (NNP Nissanka))))
+    (. .)))
+
+#12  Floods, cyclones, landslides, droughts, wildfires and extreme heat seem to be occurring with regularity.
+log P = -94.11
+(TOP
+  (S
+    (S
+      (NP (NP (NNS Floods)) (, ,) (NP (NNS cyclones)) (, ,))
+      (VP (VBZ landslides)))
+    (, ,)
+    (NP
+      (NP (NNS droughts))
+      (, ,)
+      (NP (NNS wildfires))
+      (CC and)
+      (NN extreme)
+      (NN heat))
+    (VP
+      (VBP seem)
+      (S
+        (TO to)
+        (VP
+          (VB be)
+          (VP (VBG occurring) (PP (IN with) (NP (NN regularity)))))))
+    (. .)))
+
+#13  The Sri Lankan economy is not an island.
+log P = -41.37
+(TOP
+  (S
+    (NP (DT The) (NNP Sri) (NNP Lankan) (NN economy))
+    (VP (VBZ is) (RB not) (NP (DT an) (NN island)))
+    (. .)))
+
+#14  Literally, it was one of the earliest works written based on firsthand experience.
+log P = -87.19
+(TOP
+  (S
+    (ADVP (RB Literally))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VBD was)
+      (NP (CD one))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (JJS earliest) (NNS works))
+          (VP
+            (VBN written)
+            (PP
+              (VBN based)
+              (PP (IN on) (NP (JJ firsthand) (NN experience))))))))
+    (. .)))
+
+#15  His position was not an isolated or inexplicable claim.
+log P = -64.35
+(TOP
+  (S
+    (NP (PRP$ His) (NN position))
+    (VP
+      (VBD was)
+      (RB not)
+      (NP
+        (DT an)
+        (ADJP (JJ isolated) (CC or) (JJ inexplicable))
+        (NN claim)))
+    (. .)))
+
+#16  However, limiting the ban to government institutions alone will have only a modest impact.
+log P = -103.69
+(TOP
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (S
+      (S
+        (VBG limiting)
+        (NP (DT the) (NN ban))
+        (PP (TO to) (NP (NN government) (NNS institutions))))
+      (ADVP (RB alone))
+      (VP
+        (MD will)
+        (VP (VB have) (NP (RB only) (DT a) (JJ modest) (NN impact)))))
+    (. .)))
+
+#17  Today it’s common and expensive when it happens.
+log P = -65.59
+(TOP
+  (S
+    (NP (NN Today))
+    (NP (PRP it))
+    (VP
+      (VBZ 's)
+      (ADJP (JJ common) (CC and) (JJ expensive))
+      (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ happens)))))
+    (. .)))
+
+#18  The platform also introduces greater digital convenience for specific customer needs.
+log P = -78.53
+(TOP
+  (S
+    (NP (DT The) (NN platform))
+    (ADVP (RB also))
+    (VP
+      (VBZ introduces)
+      (NP
+        (NP (JJR greater) (JJ digital) (NN convenience))
+        (PP (IN for) (NP (JJ specific) (NN customer) (NNS needs)))))
+    (. .)))
+
+#19  The latest acceleration was particularly pronounced in food.
+log P = -50.83
+(TOP
+  (S
+    (NP (DT The) (JJS latest) (NN acceleration))
+    (VP
+      (VBD was)
+      (RB particularly)
+      (VP (VBN pronounced) (PP (IN in) (NP (NN food)))))
+    (. .)))
+
+#20  Notably, the Bank’s ‘Trees for Tomorrow’ reforestation project planted over 12,500 trees in 2025.
+log P = -117.31
+(TOP
+  (S
+    (ADVP (RB Notably))
+    (, ,)
+    (NP (DT the) (NNP Bank))
+    (VP
+      (VBZ 's)
+      (`` `)
+      (NP
+        (NP (NNS Trees))
+        (PP
+          (IN for)
+          (NP
+            (NP (NNP Tomorrow) (POS '))
+            (NN reforestation)
+            (NN project)))
+        (VP
+          (VBN planted)
+          (PP
+            (IN over)
+            (NP
+              (NP (CD 12,500) (NNS trees))
+              (PP (IN in) (NP (CD 2025))))))))
+    (. .)))
+
+#21  The auction offerings totalled 5.2 million kilogrammes (M/Kgs).
+log P = -57.90
+(TOP
+  (S
+    (NP (DT The) (NN auction) (NNS offerings))
+    (VP
+      (VBD totalled)
+      (NP
+        (NP (QP (CD 5.2) (CD million)) (NNS kilogrammes))
+        (PRN (-LRB- -LRB-) (NP (NNP M/Kgs)) (-RRB- -RRB-))))
+    (. .)))
+
+#22  Visa supported the forum as Platinum Partner.
+log P = -51.53
+(TOP
+  (S
+    (NP (NNP Visa))
+    (VP
+      (VBD supported)
+      (NP
+        (NP (DT the) (NN forum))
+        (PP (IN as) (NP (NNP Platinum) (NNP Partner)))))
+    (. .)))
+
+#23  The mission, which began on September 10, is scheduled to conclude on September 23.
+log P = -88.97
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN mission))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S (VBD began) (PP (IN on) (NP (NNP September) (CD 10)))))
+      (, ,))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN scheduled)
+        (S
+          (TO to)
+          (VP
+            (VB conclude)
+            (PP (IN on) (NP (NNP September) (CD 23)))))))
+    (. .)))
+
+#24  Market turnover stood at LKR 1.33 billion, with 55.41 million shares traded.
+log P = -92.42
+(TOP
+  (S
+    (NP (NNP Market) (NN turnover))
+    (VP
+      (VBD stood)
+      (NP (IN at) (TO LKR) (CD 1.33) (CD billion))
+      (, ,)
+      (PP
+        (IN with)
+        (NP
+          (NP (QP (CD 55.41) (CD million)) (NNS shares))
+          (VP (VBN traded)))))
+    (. .)))
+
+#25  Brent prices are on track for their first weekly loss in three, down 2%.
+log P = -110.96
+(TOP
+  (S
+    (NP (NNP Brent) (NNS prices))
+    (VP
+      (VBP are)
+      (PP
+        (IN on)
+        (NP
+          (NP (NN track))
+          (PP
+            (IN for)
+            (NP (PRP$ their) (JJ first) (JJ weekly) (NN loss)))))
+      (PP (IN in) (NP (CD three)))
+      (, ,)
+      (PP (IN down) (NP (CD 2) (NN %))))
+    (. .)))
+
+#26  Rather than holding U.S. Treasuries, China is turning its attention toward gold and emerging industries.
+log P = -121.75
+(TOP
+  (S
+    (PP
+      (ADVP (RB Rather))
+      (IN than)
+      (S (VBG holding) (NP (NNP U.S.) (NNP Treasuries))))
+    (, ,)
+    (NP (NNP China))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG turning)
+        (NP (PRP$ its) (NN attention))
+        (PP
+          (IN toward)
+          (NP (NN gold) (CC and) (VBG emerging) (NNS industries)))))
+    (. .)))
+
+#27  There was no immediate comment from Pakistan’s government.
+log P = -55.64
+(TOP
+  (S
+    (NP (EX There))
+    (VP
+      (VBD was)
+      (NP (DT no) (JJ immediate) (NN comment))
+      (PP
+        (IN from)
+        (NP (NP (NNP Pakistan) (POS 's)) (NN government))))
+    (. .)))
+
+#28  The use of such accounts would be capped at one hour per day.
+log P = -87.82
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN use))
+      (PP (IN of) (NP (JJ such) (NNS accounts))))
+    (VP
+      (MD would)
+      (VP
+        (VB be)
+        (VP
+          (VBN capped)
+          (PP
+            (IN at)
+            (NP (NP (CD one) (NN hour)) (PP (IN per) (NP (NN day))))))))
+    (. .)))
+
+#29  A criminal investigation can survive an unanswered question for a time.
+log P = -69.86
+(TOP
+  (S
+    (NP (DT A) (JJ criminal) (NN investigation))
+    (VP
+      (MD can)
+      (VP
+        (VB survive)
+        (NP
+          (NP (DT an) (JJ unanswered) (NN question))
+          (PP (IN for) (NP (DT a) (NN time))))))
+    (. .)))
+
+#30  WTI touched its lowest since September 1 earlier on Wednesday.
+log P = -83.96
+(TOP
+  (S
+    (NP (NNP WTI))
+    (VP
+      (VBD touched)
+      (PP
+        (NP (PRP$ its) (JJS lowest))
+        (IN since)
+        (NP (NNP September)))
+      (PP
+        (ADVP (NP (CD 1)) (JJR earlier))
+        (IN on)
+        (NP (NNP Wednesday))))
+    (. .)))
+
+#31  The US and Israel launched air strikes on Iran on 28 February.
+log P = -96.60
+(TOP
+  (S
+    (NP (DT The) (NNP US) (CC and) (NNP Israel))
+    (VP
+      (VBD launched)
+      (NP (NP (NN air) (NNS strikes)) (PP (IN on) (NP (NNP Iran))))
+      (PP (IN on) (NP (CD 28)))
+      (NP (NNP February)))
+    (. .)))
+
+#32  Foreign investors, however, remained net sellers with an outflow of approximately LKR 62.10 million.
+log P = -107.02
+(TOP
+  (S
+    (NP (NNP Foreign) (NNS investors))
+    (PRN (, ,) (ADVP (RB however)) (, ,))
+    (VP
+      (VBD remained)
+      (NP
+        (NP (JJ net) (NNS sellers))
+        (PP (IN with) (NP (DT an) (NN outflow))))
+      (PP
+        (IN of)
+        (NP (RB approximately) (CD LKR) (CD 62.10) (CD million))))
+    (. .)))
+
+#33  Nevertheless, the yields in this segment remained largely stable.
+log P = -68.94
+(TOP
+  (S
+    (ADVP (RB Nevertheless))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS yields))
+      (PP (IN in) (NP (DT this) (NN segment))))
+    (VP (VBD remained) (ADJP (RB largely) (JJ stable)))
+    (. .)))
+
+#34  The Bills also propose measures to increase judicial capacity at the Provincial High Court level.
+log P = -107.09
+(TOP
+  (S
+    (NP (DT The) (NNS Bills))
+    (ADVP (RB also))
+    (VP
+      (VBP propose)
+      (VP
+        (VBZ measures)
+        (S
+          (TO to)
+          (VP
+            (VB increase)
+            (NP (JJ judicial) (NN capacity))
+            (PP
+              (IN at)
+              (NP
+                (DT the)
+                (NNP Provincial)
+                (NNP High)
+                (NNP Court)
+                (NN level)))))))
+    (. .)))
+
+#35  The revised calculation excludes students, making direct comparisons with earlier figures difficult.
+log P = -96.68
+(TOP
+  (S
+    (NP (DT The) (VBN revised) (NN calculation))
+    (VP
+      (VBZ excludes)
+      (NP (NNS students))
+      (, ,)
+      (S
+        (VBG making)
+        (S
+          (NP
+            (NP (JJ direct) (NNS comparisons))
+            (PP (IN with) (NP (JJR earlier) (NNS figures))))
+          (ADJP (JJ difficult)))))
+    (. .)))
+
+#36  Wellington has also agreed to invest $20 billion in India over the next 15 years.
+log P = -94.67
+(TOP
+  (S
+    (NP (NNP Wellington))
+    (VP
+      (VBZ has)
+      (RB also)
+      (VP
+        (VBN agreed)
+        (S
+          (TO to)
+          (VP
+            (VBP invest)
+            (NP
+              (NP ($ $) (CD 20) (CD billion))
+              (PP (IN in) (NP (NNP India))))
+            (PP
+              (IN over)
+              (NP (DT the) (JJ next) (CD 15) (NNS years)))))))
+    (. .)))
+
+#37  The Trump administration is expected to appeal the ruling.
+log P = -55.42
+(TOP
+  (S
+    (NP (DT The) (NNP Trump) (NN administration))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN expected)
+        (S (TO to) (VP (VB appeal) (NP (DT the) (NN ruling))))))
+    (. .)))
+
+#38  Vidullanka currently has interests in hydropower, solar and biomass-based electricity generation.
+log P = -80.38
+(TOP
+  (S
+    (NP (NNP Vidullanka))
+    (ADVP (RB currently))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (NNS interests))
+        (PP
+          (IN in)
+          (NP
+            (ADJP
+              (JJ hydropower)
+              (, ,)
+              (JJ solar)
+              (CC and)
+              (JJ biomass-based))
+            (NN electricity)
+            (NN generation)))))
+    (. .)))
+
+#39  Initially, 25 people were charged over their role in the bombings.
+log P = -73.87
+(TOP
+  (S
+    (ADVP (RB Initially))
+    (, ,)
+    (NP (CD 25) (NNS people))
+    (VP
+      (VBD were)
+      (VP
+        (VBN charged)
+        (PP (IN over) (NP (PRP$ their) (NN role)))
+        (PP (IN in) (NP (DT the) (NNS bombings)))))
+    (. .)))
+
+#40  The central message is brutally simple: nature does not need us, but we need nature.
+log P = -120.07
+(TOP
+  (S
+    (S
+      (NP (DT The) (JJ central) (NN message))
+      (VP (VBZ is) (ADJP (RB brutally) (JJ simple))))
+    (: :)
+    (S
+      (NP (NN nature))
+      (VP (VBZ does) (RB not) (VP (VB need) (NP (PRP us)))))
+    (, ,)
+    (CC but)
+    (S (NP (PRP we)) (VP (VBP need) (NP (NN nature))))
+    (. .)))
+
+#41  And now we are staring at economic and political developments that signal a dangerous world.
+log P = -99.37
+(TOP
+  (S
+    (CC And)
+    (ADVP (RB now))
+    (NP (PRP we))
+    (VP
+      (VBP are)
+      (VP
+        (VBG staring)
+        (PP
+          (IN at)
+          (NP
+            (ADJP (JJ economic) (CC and) (JJ political))
+            (NNS developments)))
+        (SBAR
+          (IN that)
+          (SINV (VB signal) (NP (DT a) (JJ dangerous) (NN world))))))
+    (. .)))
+
+#42  The failure of his political gamble resulted in a major transition in Lankan political history.
+log P = -89.58
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN failure))
+      (PP (IN of) (NP (PRP$ his) (JJ political) (NN gamble))))
+    (VP
+      (VBD resulted)
+      (PP (IN in) (NP (DT a) (JJ major) (NN transition)))
+      (PP (IN in) (NP (NNP Lankan) (JJ political) (NN history))))
+    (. .)))
+
+#43  Legitimate criticism or disagreement should not automatically become a criminal matter.
+log P = -80.35
+(TOP
+  (S
+    (NP
+      (NNP Legitimate)
+      (NX (NX (NN criticism)) (CC or) (NX (NN disagreement))))
+    (VP
+      (MD should)
+      (RB not)
+      (ADVP (RB automatically))
+      (VP (VB become) (NP (DT a) (JJ criminal) (NN matter))))
+    (. .)))
+
+#44  Such action would also enhance Sri Lanka’s image as an environmentally responsible nation.
+log P = -89.82
+(TOP
+  (S
+    (NP (JJ Such) (NN action))
+    (VP
+      (MD would)
+      (RB also)
+      (VP
+        (VB enhance)
+        (NP
+          (NP (NP (NNP Sri) (NNP Lanka) (POS 's)) (NN image))
+          (PP
+            (IN as)
+            (NP
+              (DT an)
+              (ADJP (RB environmentally) (JJ responsible))
+              (NN nation))))))
+    (. .)))
+
+#45  HR Optimizer was built to be global-ready from day one.
+log P = -61.98
+(TOP
+  (S
+    (NP (NNP HR) (NNP Optimizer))
+    (VP
+      (VBD was)
+      (VP
+        (VBN built)
+        (S
+          (TO to)
+          (VP
+            (VB be)
+            (ADJP
+              (JJ global-ready)
+              (PP (IN from) (NP (NN day) (CD one))))))))
+    (. .)))
+
+#46  Pan Asia EZY has been developed with everyday customer behaviour in mind.
+log P = -86.41
+(TOP
+  (S
+    (NP (NNP Pan) (NNP Asia) (NNP EZY))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN been)
+        (VP
+          (VBN developed)
+          (PP
+            (IN with)
+            (NP (JJ everyday) (NN customer) (NN behaviour)))
+          (PP (IN in) (NP (NN mind))))))
+    (. .)))
+
+#47  It stood at just 3.4 percent in January.
+log P = -62.60
+(TOP
+  (S
+    (NP (PRP It))
+    (VP
+      (VBD stood)
+      (PP (IN at) (NP (QP (RB just) (CD 3.4)) (NN percent)))
+      (PP (IN in) (NP (NNP January))))
+    (. .)))
+
+#48  An improved demand was seen for the Orthodox/Rotovane teas, following quality.
+log P = -79.13
+(TOP
+  (S
+    (NP (DT An) (VBN improved) (NN demand))
+    (VP
+      (VBD was)
+      (VP
+        (VBN seen)
+        (PP
+          (IN for)
+          (NP (DT the) (NNP Orthodox/Rotovane) (NNS teas)))
+        (, ,)
+        (S (VBG following) (NP (NN quality)))))
+    (. .)))
+
+#49  John Keells Holdings provided the strongest positive contribution.
+log P = -67.31
+(TOP
+  (S
+    (NP (NNP John) (NNPS Keells) (NNP Holdings))
+    (VP
+      (VBD provided)
+      (NP
+        (DT the)
+        (ADJP (JJS strongest) (JJ positive))
+        (NN contribution)))
+    (. .)))
+
+#50  Transporting oil through the region remains risky, however.
+log P = -65.11
+(TOP
+  (S
+    (S
+      (VBG Transporting)
+      (NP (NP (NN oil)) (PP (IN through) (NP (DT the) (NN region)))))
+    (VP (VBZ remains) (VP (VB risky) (, ,) (ADVP (RB however))))
+    (. .)))
+
+#51  Experts caution, however, that China’s actual U.S. Treasury holdings may exceed the officially reported figures.
+log P = -137.19
+(TOP
+  (S
+    (NP
+      (NP (NNS Experts))
+      (NN caution)
+      (PRN (, ,) (ADVP (RB however)) (, ,))
+      (PP
+        (IN that)
+        (NP
+          (NP (NNP China) (POS 's))
+          (JJ actual)
+          (NNP U.S.)
+          (NNP Treasury)
+          (NNS holdings))))
+    (VP
+      (MD may)
+      (VP
+        (VB exceed)
+        (NP
+          (DT the)
+          (ADJP (RB officially) (VBN reported))
+          (NNS figures))))
+    (. .)))
+
+#52  The ban was later struck down by the country’s Constitutional Court, however.
+log P = -88.28
+(TOP
+  (S
+    (NP (DT The) (NN ban))
+    (VP
+      (VBD was)
+      (NP (JJ later) (NN struck))
+      (PRT (RP down))
+      (PP
+        (IN by)
+        (NP
+          (NP (DT the) (NN country) (POS 's))
+          (NNP Constitutional)
+          (NNP Court)))
+      (, ,)
+      (ADVP (RB however)))
+    (. .)))
+
+#53  His death was initially viewed by police through the possibility of suicide.
+log P = -87.88
+(TOP
+  (S
+    (NP (PRP$ His) (NN death))
+    (VP
+      (VBD was)
+      (RB initially)
+      (VP
+        (VBN viewed)
+        (PP
+          (IN by)
+          (NP
+            (NP (NNS police))
+            (PP (IN through) (NP (DT the) (NN possibility)))))
+        (PP (IN of) (ADJP (JJ suicide)))))
+    (. .)))
+
+#54  Iraq, too, is increasing oil exports, its oil minister said on Tuesday.
+log P = -95.62
+(TOP
+  (S
+    (S
+      (NP (NP (NNP Iraq)) (PRN (, ,) (ADVP (RB too)) (, ,)))
+      (VP (VBZ is) (VP (VBG increasing) (NP (NN oil) (NNS exports)))))
+    (, ,)
+    (NP (PRP$ its) (NN oil) (NN minister))
+    (VP (VBD said) (PP (IN on) (NP (NNP Tuesday))))
+    (. .)))
+
+#55  Iran state TV confirmed that Foreign Minister Abbas Araghchi had met Witkoff.
+log P = -91.28
+(TOP
+  (S
+    (NP (NNP Iran) (NN state) (NN TV))
+    (VP
+      (VBD confirmed)
+      (SBAR
+        (IN that)
+        (S
+          (NP
+            (NNP Foreign)
+            (NNP Minister)
+            (NNP Abbas)
+            (NNP Araghchi))
+          (VP (VBD had) (VP (VBN met) (S (NNP Witkoff)))))))
+    (. .)))
+
+#56  Lion Brewery was the largest negative contributor.
+log P = -37.17
+(TOP
+  (S
+    (NP (NNP Lion) (NNP Brewery))
+    (VP
+      (VBD was)
+      (NP
+        (DT the)
+        (ADJP (JJS largest) (JJ negative))
+        (NN contributor)))
+    (. .)))
+
+#57  Both investor participation and market volumes appeared moderate yesterday.
+log P = -68.74
+(TOP
+  (S
+    (NP
+      (NP (DT Both) (NN investor) (NN participation))
+      (CC and)
+      (NN market)
+      (NNS volumes))
+    (VP (VBD appeared) (NP (JJ moderate) (NN yesterday)))
+    (. .)))
+
+#58  The technology sector, in particular, is undergoing changes as companies increasingly adopt AI-powered tools.
+log P = -115.04
+(TOP
+  (S
+    (NP (DT The) (NN technology) (NN sector))
+    (PRN (, ,) (PP (IN in) (ADJP (JJ particular))) (, ,))
+    (VP
+      (VBZ is)
+      (S
+        (VBG undergoing)
+        (NP (NP (NNS changes)) (PP (IN as) (NP (NNS companies))))
+        (ADVP (RB increasingly))
+        (VP (VB adopt) (NP (JJ AI-powered) (NNS tools)))))
+    (. .)))
+
+#59  New Zealand exporters will receive preferential quota access for apples, kiwifruit and albumins.
+log P = -99.72
+(TOP
+  (S
+    (NP (NNP New) (NNP Zealand) (NNS exporters))
+    (VP
+      (MD will)
+      (VP
+        (VB receive)
+        (NP
+          (NP (JJ preferential) (NN quota) (NN access))
+          (PP
+            (IN for)
+            (NP
+              (NP (NNS apples))
+              (, ,)
+              (NN kiwifruit)
+              (CC and)
+              (NNS albumins))))))
+    (. .)))
+
+#60  The controversial programme has reached the Supreme Court twice.
+log P = -63.90
+(TOP
+  (S
+    (NP (DT The) (JJ controversial) (NN programme))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN reached)
+        (NP (DT the) (NNP Supreme) (NNP Court))
+        (ADVP (RB twice))))
+    (. .)))
+
+#61  After one of the accused died, 24 were indicted in October 2021.
+log P = -89.59
+(TOP
+  (S
+    (SBAR
+      (IN After)
+      (S
+        (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBD accused))))
+        (VP (VBD died))))
+    (, ,)
+    (NP (CD 24))
+    (VP
+      (VBD were)
+      (VP (VBN indicted) (PP (IN in) (NP (NNP October) (CD 2021)))))
+    (. .)))
+
+#62  Perhaps we can even be excused for this arrogance.
+log P = -51.29
+(TOP
+  (S
+    (ADVP (RB Perhaps))
+    (NP (PRP we))
+    (VP
+      (MD can)
+      (RB even)
+      (VP
+        (VB be)
+        (VP
+          (VBN excused)
+          (PP (IN for) (NP (DT this) (NN arrogance))))))
+    (. .)))
+
+#63  Global trade is precarious with Trump’s arbitrary tariffs over the last year and a half.
+log P = -96.27
+(TOP
+  (S
+    (NP (JJ Global) (NN trade))
+    (VP
+      (VBZ is)
+      (ADJP
+        (JJ precarious)
+        (PP
+          (IN with)
+          (NP (NP (NNP Trump) (POS 's)) (JJ arbitrary) (NNS tariffs))))
+      (PP
+        (IN over)
+        (NP
+          (NP (DT the) (JJ last) (NN year))
+          (CC and)
+          (NP (DT a) (NN half)))))
+    (. .)))
+
+#64  Great mischief they did him, the often times great loss on their sides.
+log P = -100.52
+(TOP
+  (S
+    (NP (NNP Great))
+    (VP
+      (VBP mischief)
+      (SBAR
+        (NP (PRP they))
+        (VP
+          (VBD did)
+          (NP (PRP him))
+          (, ,)
+          (NP
+            (NP
+              (NP (DT the) (RB often) (NNS times))
+              (JJ great)
+              (NN loss))
+            (PP (IN on) (NP (PRP$ their) (NNS sides)))))))
+    (. .)))
+
+#65  Protecting the environment is a shared responsibility.
+log P = -52.39
+(TOP
+  (S
+    (S (VBG Protecting) (NP (DT the) (NN environment)))
+    (VP (VBZ is) (NP (DT a) (VBN shared) (NN responsibility)))
+    (. .)))
+
+#66  And the standard that governs it needs to hold up anywhere in the world.
+log P = -84.99
+(TOP
+  (S
+    (CC And)
+    (NP
+      (NP (DT the) (NN standard))
+      (SBAR (WHNP (WDT that)) (S (VBZ governs) (NP (PRP it)))))
+    (VP
+      (VBZ needs)
+      (S
+        (TO to)
+        (VP
+          (VB hold)
+          (PRT (RP up))
+          (PP (ADVP (RB anywhere)) (IN in) (NP (DT the) (NN world))))))
+    (. .)))
+
+#67  Getting started has also been simplified.
+log P = -51.33
+(TOP
+  (S
+    (NP (VBG Getting))
+    (VP
+      (VBD started)
+      (VP (VBZ has) (RB also) (VP (VBN been) (VP (VBN simplified)))))
+    (. .)))
+
+#68  The composition of inflation also underscores the pressure on the household expenditure.
+log P = -67.42
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN composition))
+      (PP (IN of) (NP (NN inflation))))
+    (ADVP (RB also))
+    (VP
+      (VBZ underscores)
+      (NP
+        (NP (DT the) (NN pressure))
+        (PP (IN on) (NP (DT the) (NN household) (NN expenditure)))))
+    (. .)))
+
+#69  The Ex-Estate offerings comprised of 0.7 M/Kgs.
+log P = -51.21
+(TOP
+  (NP
+    (NP (DT The) (JJ Ex-Estate) (NNS offerings))
+    (VP (VBN comprised) (PP (IN of) (NP (CD 0.7) (NNS M/Kgs))))
+    (. .)))
+
+#70  These developments may carry indirect implications for South Korean financial markets.
+log P = -76.99
+(TOP
+  (S
+    (NP (DT These) (NNS developments))
+    (VP
+      (MD may)
+      (VP
+        (VB carry)
+        (NP
+          (NP (JJ indirect) (NNS implications))
+          (PP
+            (IN for)
+            (NP
+              (NNP South)
+              (NNP Korean)
+              (JJ financial)
+              (NNS markets))))))
+    (. .)))
+
+#71  His family disputed that account, questioned the post-mortem findings and sought judicial intervention.
+log P = -110.73
+(TOP
+  (S
+    (NP (PRP$ His) (NN family))
+    (VP
+      (VP (VBN disputed) (PP (IN that) (NP (NN account))))
+      (, ,)
+      (VP
+        (VBD questioned)
+        (NP (DT the) (JJ post-mortem) (NNS findings)))
+      (CC and)
+      (VP (VBN sought) (NP (JJ judicial) (NN intervention))))
+    (. .)))
+
+#72  Analysts polled by Reuters had expected a decline.
+log P = -60.58
+(TOP
+  (S
+    (NP (NNS Analysts))
+    (VP
+      (VBD polled)
+      (SBAR
+        (IN by)
+        (S
+          (NP (NNP Reuters))
+          (VP (VBD had) (VP (VBN expected) (NP (DT a) (NN decline)))))))
+    (. .)))
+
+#73  Since the ceasefire collapsed, both sides have intermittently exchanged fire.
+log P = -73.48
+(TOP
+  (S
+    (SBAR
+      (IN Since)
+      (S (NP (DT the) (NN ceasefire)) (VP (VBD collapsed))))
+    (, ,)
+    (NP (DT both) (NNS sides))
+    (VP
+      (VBP have)
+      (RB intermittently)
+      (VP (VBN exchanged) (NP (NN fire))))
+    (. .)))
+
+#74  The potential employment impact of AI extends beyond China.
+log P = -66.55
+(TOP
+  (S
+    (NP
+      (NP (DT The) (JJ potential) (NN employment) (NN impact))
+      (PP (IN of) (NP (NNP AI))))
+    (VP (VBZ extends) (PP (IN beyond) (NP (NNP China))))
+    (. .)))
+
+#75  The DHS called the removals “a win”, while rights groups said they flouted basic protections.
+log P = -125.09
+(TOP
+  (S
+    (NP (DT The) (NNP DHS))
+    (VP
+      (VBD called)
+      (SBAR
+        (NP
+          (NP (DT the) (NNS removals))
+          (`` ``)
+          (S (NP (DT a)) (VP (VBP win)))
+          ('' ''))
+        (, ,)
+        (PP (IN while) (NP (NNS rights) (NNS groups)))
+        (VP
+          (VBD said)
+          (SBAR
+            (NP (PRP they))
+            (VP (VBD flouted) (NP (JJ basic) (NNS protections)))))))
+    (. .)))
+
+#76  In fact, we may perhaps be excused for occasionally thinking that we are God.
+log P = -94.92
+(TOP
+  (S
+    (PP (IN In) (NP (NN fact)))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (MD may)
+      (RB perhaps)
+      (VP
+        (VB be)
+        (PP
+          (VBN excused)
+          (PP
+            (IN for)
+            (ADVP (RB occasionally))
+            (S
+              (VBG thinking)
+              (SBAR
+                (IN that)
+                (S (NP (PRP we)) (VP (VBP are) (ADVP (RB God))))))))))
+    (. .)))
+
+#77  This would in effect, lead to even higher interest costs for developing countries like ours.
+log P = -122.39
+(TOP
+  (S
+    (S (NP (DT This)) (VP (MD would)) (PP (IN in) (NP (NN effect))))
+    (, ,)
+    (VP
+      (VBP lead)
+      (S
+        (TO to)
+        (VP
+          (VB even)
+          (NP (JJR higher) (NN interest) (NNS costs))
+          (PP
+            (IN for)
+            (S
+              (VBG developing)
+              (NP
+                (NP (NNS countries))
+                (PP (IN like) (NP (NNS ours)))))))))
+    (. .)))
+
+#78  To achieve this goal, he was willing to pay a heavy price.
+log P = -79.41
+(TOP
+  (S
+    (S (TO To) (VP (VB achieve) (NP (DT this) (NN goal))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD was)
+      (ADJP
+        (JJ willing)
+        (S (TO to) (VP (VB pay) (NP (DT a) (JJ heavy) (NN price))))))
+    (. .)))
+
+#79  Datamation Systems Ltd has been successfully providing business solutions since 1986.
+log P = -93.27
+(TOP
+  (S
+    (NP (NNP Datamation) (NNPS Systems) (NNP Ltd))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN been)
+        (ADVP (RB successfully))
+        (VP
+          (VBG providing)
+          (NP (NN business) (NNS solutions))
+          (PP (IN since) (NP (CD 1986))))))
+    (. .)))
+
+#80  Integrated eKYC capabilities also support registration using international mobile numbers.
+log P = -92.63
+(TOP
+  (S
+    (NP (NNP Integrated))
+    (VP
+      (VBZ eKYC)
+      (VP
+        (VBZ capabilities)
+        (RB also)
+        (VP
+          (VB support)
+          (NP
+            (NP (NN registration))
+            (PP
+              (VBG using)
+              (NP (JJ international) (JJ mobile) (NNS numbers)))))))
+    (. .)))
+
+#81  Petrol accounted for 1.14 percentage points, bus fares 0.36 points and diesel 0.16 points.
+log P = -102.81
+(TOP
+  (S
+    (NP (NNP Petrol))
+    (VP
+      (VP
+        (VBN accounted)
+        (PP
+          (IN for)
+          (NP
+            (NP (CD 1.14) (NN percentage) (NNS points))
+            (, ,)
+            (NP (JJ bus) (NNS fares))
+            (CD 0.36)
+            (NNS points))))
+      (CC and)
+      (VP (VB diesel) (NP (CD 0.16) (NNS points))))
+    (. .)))
+
+#82  There was an improved selection of teas both from the Western and Eastern sectors.
+log P = -96.91
+(TOP
+  (S
+    (NP (EX There))
+    (VP
+      (VBD was)
+      (NP
+        (NP (DT an) (VBN improved) (NN selection))
+        (PP (IN of) (NP (NP (NNS teas)) (ADVP (PDT both)))))
+      (PP
+        (IN from)
+        (NP
+          (DT the)
+          (NNP Western)
+          (CC and)
+          (NNP Eastern)
+          (NNS sectors))))
+    (. .)))
+
+#83  A fresh examination after exhumation subsequently produced findings that were inconsistent with suicide.
+log P = -94.99
+(TOP
+  (S
+    (NP
+      (NP (DT A) (JJ fresh) (NN examination))
+      (PP (IN after) (NP (NN exhumation))))
+    (ADVP (RB subsequently))
+    (VP
+      (VBD produced)
+      (NP
+        (NP (NNS findings))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VBD were)
+            (VP (VB inconsistent) (NP (IN with) (NN suicide)))))))
+    (. .)))
+
+#84  Official weekly inventory figures from the US Energy Information Administration are due at 10:30 a.m.
+log P = -113.07
+(TOP
+  (S
+    (NP
+      (NP (JJ Official) (JJ weekly) (NN inventory) (NNS figures))
+      (PP
+        (IN from)
+        (NP
+          (DT the)
+          (NNP US)
+          (NNP Energy)
+          (NNP Information)
+          (NNP Administration))))
+    (VP
+      (VBP are)
+      (ADJP (JJ due) (PP (IN at) (NP (CD 10:30) (NN a.m.)))))
+    (. .)))
+
+#85  The figures highlight the importance of distinguishing between exposure to AI and actual job displacement.
+log P = -107.58
+(TOP
+  (S
+    (NP (DT The) (NNS figures))
+    (VP
+      (VB highlight)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP
+          (IN of)
+          (S
+            (VBG distinguishing)
+            (PP (IN between) (NP (NN exposure))))))
+      (PP
+        (TO to)
+        (NP
+          (NNP AI)
+          (CC and)
+          (NP (JJ actual) (NN job) (NN displacement)))))
+    (. .)))
+
+#86  The Trump administration’s immigration agenda has faced a string of setbacks this month.
+log P = -107.54
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NNP Trump) (NN administration) (POS 's))
+      (NN immigration)
+      (NN agenda))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN faced)
+        (ADVP (DT a))
+        (VP
+          (VB string)
+          (PP (IN of) (NP (NNS setbacks)))
+          (NP (DT this) (NN month)))))
+    (. .)))
+
+#87  Perhaps our scientific achievements have therefore given us a rather dangerous illusion.
+log P = -94.42
+(TOP
+  (S
+    (ADVP (RB Perhaps))
+    (NP (PRP$ our) (JJ scientific) (NNS achievements))
+    (VP
+      (VBP have)
+      (RB therefore)
+      (VP
+        (VBN given)
+        (NP (PRP us))
+        (NP (DT a) (ADJP (RB rather) (JJ dangerous)) (NN illusion))))
+    (. .)))
+
+#88  Production of goods were apparently secondary, and it was information technology that would determine everything.
+log P = -109.46
+(TOP
+  (S
+    (S
+      (NP (NP (NNP Production)) (PP (IN of) (NP (NNS goods))))
+      (VP (VBD were) (ADJP (RB apparently) (JJ secondary))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP
+        (VBD was)
+        (NP
+          (NP (NN information) (NN technology))
+          (SBAR
+            (WHNP (WDT that))
+            (S (MD would) (VP (VB determine) (NP (NN everything))))))))
+    (. .)))
+
+#89  Jaffna at the time, was the main market for elephants captured in the island.
+log P = -70.39
+(TOP
+  (S
+    (NP (NP (NNP Jaffna)) (PP (IN at) (NP (DT the) (NN time))) (, ,))
+    (VP
+      (VBD was)
+      (NP (DT the) (JJ main) (NN market))
+      (PP
+        (IN for)
+        (NP
+          (NP (NNS elephants))
+          (VP (VBN captured) (PP (IN in) (NP (DT the) (NN island)))))))
+    (. .)))
+
+#90  People increasingly expect banking to fit around their lives, rather than the other way around.
+log P = -121.73
+(TOP
+  (S
+    (NP (NNS People))
+    (ADVP (RB increasingly))
+    (VP
+      (VBP expect)
+      (VP
+        (VBG banking)
+        (PP
+          (PP (TO to) (NP (NN fit)))
+          (PP (IN around) (NP (PRP$ their) (NNS lives)))
+          (, ,)
+          (ADVP (RB rather))
+          (PP (IN than) (NP (DT the) (JJ other) (NN way))))
+        (ADVP (RB around))))
+    (. .)))
+
+#91  The food pressures were also spread across several staples and commonly purchased items.
+log P = -92.97
+(TOP
+  (S
+    (NP (DT The) (NN food) (NNS pressures))
+    (VP
+      (VBD were)
+      (RB also)
+      (VP
+        (VBN spread)
+        (PP
+          (IN across)
+          (NP
+            (NP (JJ several) (NNS staples))
+            (CC and)
+            (NP (ADJP (RB commonly) (VBN purchased)) (NNS items))))))
+    (. .)))
+
+#92  The corresponding BOPFs sold around last week’s levels.
+log P = -60.49
+(TOP
+  (S
+    (NP (DT The) (VBG corresponding) (NNS BOPFs))
+    (VP
+      (VBD sold)
+      (PP
+        (IN around)
+        (NP (NP (JJ last) (NN week) (POS 's)) (NNS levels))))
+    (. .)))
+
+#93  The case has since moved beyond a disputed death.
+log P = -70.54
+(TOP
+  (S
+    (NP (DT The) (NN case))
+    (VP
+      (VBZ has)
+      (ADVP (IN since))
+      (VP
+        (VBN moved)
+        (PP (IN beyond) (NP (DT a) (VBN disputed) (NN death)))))
+    (. .)))
+
+#94  Scientifically, of course, the answer has to be no.
+log P = -56.69
+(TOP
+  (S
+    (ADVP (RB Scientifically))
+    (, ,)
+    (PP (IN of) (NP (NN course)))
+    (, ,)
+    (NP (DT the) (NN answer))
+    (VP (VBZ has) (S (TO to) (VP (VB be) (ADVP (RB no)))))
+    (. .)))
+
+#95  But alas, in 2000 the bubble burst with so many companies going under.
+log P = -97.99
+(TOP
+  (S
+    (CC But)
+    (NP
+      (NP (NNS alas))
+      (, ,)
+      (PP (IN in) (NP (CD 2000)))
+      (NP (DT the) (NN bubble)))
+    (VP
+      (VBP burst)
+      (ADVP (IN with) (PP (IN so) (NP (JJ many) (NNS companies))))
+      (VP (VBG going) (ADVP (IN under))))
+    (. .)))
+
+#96  Senarath (1604-1635CE), his successor, continued Vimaladharmasuriya’s policy of being anti-Portugese.
+log P = -92.38
+(TOP
+  (S
+    (NP
+      (NP (NNP Senarath))
+      (PRN (-LRB- -LRB-) (NP (NNP 1604-1635CE)) (-RRB- -RRB-))
+      (, ,)
+      (NP (PRP$ his) (NN successor))
+      (, ,))
+    (VP
+      (VBD continued)
+      (NP (NP (NNP Vimaladharmasuriya) (POS 's)) (NN policy))
+      (PP (IN of) (S (VBG being) (NP (NN anti-Portugese)))))
+    (. .)))
+
+#97  Pan Asia EZY is our response to that change.
+log P = -69.37
+(TOP
+  (S
+    (NP (NNP Pan) (NNP Asia) (NNP EZY))
+    (VP
+      (VBZ is)
+      (NP (PRP$ our) (NN response))
+      (PP (TO to) (PP (IN that) (NP (NN change)))))
+    (. .)))
+
+#98  Some relief came from the lower prices for coconuts, rice and ginger.
+log P = -76.18
+(TOP
+  (S
+    (NP (DT Some) (NN relief))
+    (VP
+      (VBD came)
+      (PP (IN from) (NP (DT the) (JJR lower) (NNS prices)))
+      (PP
+        (IN for)
+        (NP
+          (NP (NNS coconuts))
+          (, ,)
+          (ADJP (JJ rice) (CC and) (JJR ginger)))))
+    (. .)))
+
+#99  The Nuwara Eliya/Uda Pussellawas continued to be sluggish.
+log P = -43.43
+(TOP
+  (S
+    (NP (DT The) (NNP Nuwara) (NNP Eliya/Uda) (NNP Pussellawas))
+    (VP
+      (VBD continued)
+      (S (TO to) (VP (VB be) (ADJP (JJ sluggish)))))
+    (. .)))
+
+#100  It has become a test of the credibility of Pakistan’s medico-legal and investigative machinery.
+log P = -85.33
+(TOP
+  (S
+    (NP (PRP It))
+    (VP
+      (VBZ has)
+      (VP
+        (VB become)
+        (NP
+          (NP (DT a) (NN test))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NN credibility))
+              (PP
+                (IN of)
+                (NP
+                  (NP (NNP Pakistan) (POS 's))
+                  (ADJP
+                    (JJ medico-legal)
+                    (CC and)
+                    (JJ investigative))
+                  (NN machinery))))))))
+    (. .)))
+
+#101  When the rains come and mountainsides collapse, we then call it a natural disaster.
+log P = -102.51
+(TOP
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT the) (NNS rains))
+        (VP
+          (VP (VB come))
+          (CC and)
+          (VBZ mountainsides)
+          (NP (NN collapse)))))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB then))
+    (VP
+      (VBP call)
+      (NP (PRP it))
+      (NP (DT a) (JJ natural) (NN disaster)))
+    (. .)))
+
+#102  Twenty-five years later, I sense similar sentiments and developments with the AI boom.
+log P = -93.84
+(TOP
+  (S
+    (ADVP (NP (JJ Twenty-five) (NNS years)) (RBR later))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VBP sense)
+      (NP
+        (NP
+          (JJ similar)
+          (NNS sentiments)
+          (CC and)
+          (NNS developments))
+        (PP (IN with) (NP (DT the) (NNP AI) (NN boom)))))
+    (. .)))
+
+#103  Although this followed with regular forays, the Kandyan Kingdom however, continued to retain its independence.
+log P = -108.64
+(TOP
+  (S
+    (PP
+      (IN Although)
+      (NP
+        (NP (DT this))
+        (VP
+          (VBN followed)
+          (PP (IN with) (NP (JJ regular) (NNS forays))))))
+    (, ,)
+    (NP (DT the) (NNP Kandyan) (NNP Kingdom))
+    (ADVP (RB however))
+    (, ,)
+    (VP
+      (VBD continued)
+      (S (TO to) (VP (VB retain) (NP (PRP$ its) (NN independence)))))
+    (. .)))
+
+#104  The High and Mid Grown CTC teas – BP1s, had hardly any offerings.
+log P = -88.25
+(TOP
+  (S
+    (S
+      (NP
+        (DT The)
+        (NNP High)
+        (CC and)
+        (NNP Mid)
+        (NNP Grown)
+        (NNP CTC))
+      (VP (VBZ teas) (: --) (S (JJ BP1s))))
+    (, ,)
+    (VP (VBD had) (RB hardly) (NP (DT any) (NNS offerings)))
+    (. .)))
+
+#105  Mir Raza Ali, a 25-year-old businessman, went missing in Karachi on July 28, 2026.
+log P = -95.67
+(TOP
+  (S
+    (NP
+      (NP (NNP Mir) (NNP Raza) (NNP Ali))
+      (, ,)
+      (NP (DT a) (JJ 25-year-old) (NN businessman))
+      (, ,))
+    (VP
+      (VBD went)
+      (VP
+        (VBG missing)
+        (PP (IN in) (NP (NNP Karachi)))
+        (PP (IN on) (NP (NNP July) (CD 28) (, ,) (CD 2026)))))
+    (. .)))
+
+#106  The recent landslides after heavy rains in many of our upcountry areas are classic examples.
+log P = -101.00
+(TOP
+  (S
+    (NP
+      (NP
+        (NP (DT The) (JJ recent) (NNS landslides))
+        (PP
+          (IN after)
+          (NP
+            (NP (JJ heavy) (NNS rains))
+            (PP (IN in) (NP (JJ many))))))
+      (PP (IN of) (NP (PRP$ our) (JJ upcountry) (NNS areas))))
+    (VP (VBP are) (NP (JJ classic) (NNS examples)))
+    (. .)))
+
+#107  But very few people seem to remember the past or learn from it.
+log P = -86.05
+(TOP
+  (S
+    (CC But)
+    (NP (RB very) (JJ few) (NNS people))
+    (VP
+      (VBP seem)
+      (S
+        (TO to)
+        (VP
+          (VP (VB remember) (NP (DT the) (NN past)))
+          (CC or)
+          (VP (VB learn) (PP (IN from) (NP (PRP it)))))))
+    (. .)))
+
+#108  The last to capitulate was the Jaffna Fort.
+log P = -42.89
+(TOP
+  (S
+    (NP (DT The) (NN last))
+    (VP
+      (TO to)
+      (VP
+        (VB capitulate)
+        (VP (VBD was) (NP (DT the) (NNP Jaffna) (NNP Fort)))))
+    (. .)))
+
+#109  The corresponding Low Grown varieties sold well at firm to dearer rates.
+log P = -73.86
+(TOP
+  (S
+    (NP (DT The) (NN corresponding) (NNP Low) (NNP Grown))
+    (VP
+      (VBZ varieties)
+      (VP
+        (VBN sold)
+        (ADVP (RB well))
+        (PP (IN at) (NP (NN firm)))
+        (PP (TO to) (NP (NN dearer) (NNS rates)))))
+    (. .)))
+
+#110  Questions over the first post-mortem examination soon intensified.
+log P = -57.77
+(TOP
+  (NP
+    (NP (NNS Questions))
+    (PP
+      (IN over)
+      (NP
+        (NP (DT the) (JJ first) (JJ post-mortem) (NN examination))
+        (ADJP (RB soon) (VBN intensified))))
+    (. .)))
+
+#111  The 2004 tsunami also demonstrated the importance of retaining natural coastal buffers.
+log P = -76.01
+(TOP
+  (S
+    (NP (DT The) (CD 2004) (NN tsunami))
+    (ADVP (RB also))
+    (VP
+      (VBD demonstrated)
+      (NP (DT the) (NN importance))
+      (PP
+        (IN of)
+        (S
+          (VBG retaining)
+          (NP (JJ natural) (JJ coastal) (NNS buffers)))))
+    (. .)))
+
+#112  Indeed, finance moves quickly these days, but it also seems to make us forget quickly.
+log P = -112.37
+(TOP
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP (NN finance) (NNS moves))
+    (ADVP (RB quickly))
+    (NP (DT these) (NNS days))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (ADVP (RB also))
+      (VP
+        (VBZ seems)
+        (S
+          (TO to)
+          (VP
+            (VB make)
+            (S (NP (PRP us)) (ADJP (JJ forget)) (ADVP (RB quickly)))))))
+    (. .)))
+
+#113  Their negotiations with Rajasinghe focused particularly on obtaining access to Trincomalee.
+log P = -87.30
+(TOP
+  (S
+    (NP
+      (NP (PRP$ Their) (NNS negotiations))
+      (PP (IN with) (NP (NNP Rajasinghe))))
+    (VP
+      (VBN focused)
+      (PP
+        (ADVP (RB particularly))
+        (IN on)
+        (S
+          (VBG obtaining)
+          (NP (NN access))
+          (PP (TO to) (NP (NNP Trincomalee))))))
+    (. .)))
+
+#114  The Low Growns totalled approximately 2.3 M/Kgs.
+log P = -47.60
+(TOP
+  (S
+    (NP (DT The) (NNP Low) (NNP Growns))
+    (VP
+      (VBD totalled)
+      (NP (QP (RB approximately) (CD 2.3)) (NNS M/Kgs)))
+    (. .)))
+
+#115  The family subsequently approached a court seeking exhumation, a fresh post-mortem and further forensic examination.
+log P = -106.62
+(TOP
+  (S
+    (NP (DT The) (NN family))
+    (ADVP (RB subsequently))
+    (VP
+      (VBD approached)
+      (NP
+        (NP (DT a) (NN court) (VBG seeking) (NN exhumation))
+        (, ,)
+        (NP (DT a) (JJ fresh) (NN post-mortem))
+        (CC and)
+        (NP (JJ further) (JJ forensic) (NN examination))))
+    (. .)))
+
+#116  Sometimes I wonder whether it is we who require more management.
+log P = -92.80
+(TOP
+  (S
+    (ADVP (RB Sometimes))
+    (NP (PRP I))
+    (NP (NP (NN wonder)) (PP (IN whether) (NP (PRP it))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (PRP we))
+        (SBAR
+          (WHNP (WP who))
+          (S (VBP require) (NP (JJR more) (NN management))))))
+    (. .)))
+
+#117  However, I argue that this time it is different because neoliberalism itself is in crisis.
+log P = -108.17
+(TOP
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VBP argue)
+      (PP
+        (IN that)
+        (NP
+          (NP (DT this) (NN time))
+          (SBAR
+            (NP (PRP it))
+            (VP
+              (VBZ is)
+              (ADJP (JJ different))
+              (SBAR
+                (IN because)
+                (NN neoliberalism)
+                (S
+                  (NP (PRP itself))
+                  (VP (VBZ is) (PP (IN in) (NP (NN crisis)))))))))))
+    (. .)))
+
+#118  And Rajasinghe in his last years of reign, sought a more reconciliatory relationship with them.
+log P = -97.72
+(TOP
+  (S
+    (CC And)
+    (NP
+      (NP (NNP Rajasinghe))
+      (PP (IN in) (NP (PRP$ his) (JJ last) (NNS years)))
+      (NP (IN of) (NN reign))
+      (, ,))
+    (VP
+      (VBD sought)
+      (NP
+        (NP
+          (DT a)
+          (ADJP (RBR more) (JJ reconciliatory))
+          (NN relationship))
+        (PP (IN with) (NP (PRP them)))))
+    (. .)))
+
+#119  All categories met with fair demand.
+log P = -54.18
+(TOP
+  (S
+    (NP (DT All) (NNS categories))
+    (VP (VBD met) (PP (IN with) (NP (JJ fair) (NN demand))))
+    (. .)))
+
+#120  A Karachi court authorised the exhumation and ordered the constitution of a medico-legal board.
+log P = -77.18
+(TOP
+  (S
+    (NP (DT A) (NNP Karachi) (NN court))
+    (VP
+      (VP (VBN authorised) (NP (DT the) (NN exhumation)))
+      (CC and)
+      (VP
+        (VBN ordered)
+        (NP
+          (NP (DT the) (NN constitution))
+          (PP (IN of) (NP (DT a) (JJ medico-legal) (NN board))))))
+    (. .)))
+
+#121  So perhaps we have the problem the wrong way round.
+log P = -72.78
+(TOP
+  (S
+    (ADVP (RB So) (RB perhaps))
+    (NP (PRP we))
+    (VP
+      (VBP have)
+      (NP (DT the) (NN problem))
+      (NP (DT the) (JJ wrong) (NN way) (NN round)))
+    (. .)))
+
+#122  Amidst this tumultuous world, Sri Lanka needs to rapidly change its economic policies.
+log P = -92.72
+(TOP
+  (S
+    (PP (NNP Amidst) (NP (DT this) (JJ tumultuous) (NN world)))
+    (, ,)
+    (NP (NNP Sri) (NNP Lanka))
+    (VP
+      (VBZ needs)
+      (S
+        (TO to)
+        (VP
+          (ADVP (RB rapidly))
+          (VB change)
+          (NP (PRP$ its) (JJ economic) (NNS policies)))))
+    (. .)))
+
+#123  Knox’s years in captivity evidently had not diminished his appetite for travel.
+log P = -89.43
+(TOP
+  (S
+    (NP
+      (NP (NP (NNP Knox) (POS 's)) (NNS years))
+      (PP (IN in) (NP (NN captivity))))
+    (ADVP (RB evidently))
+    (VP
+      (VBD had)
+      (RB not)
+      (VP
+        (VBN diminished)
+        (NP (PRP$ his) (NN appetite))
+        (PP (IN for) (NP (NN travel)))))
+    (. .)))
+
+#124  The OPs, in general, were firm.
+log P = -43.70
+(TOP
+  (S
+    (NP (DT The) (NNP OPs))
+    (PRN (, ,) (PP (IN in) (ADJP (JJ general))) (, ,))
+    (VP (VBD were) (NP (NN firm)))
+    (. .)))
+
+#125  The second examination produced a markedly different picture.
+log P = -59.19
+(TOP
+  (S
+    (NP (DT The) (JJ second) (NN examination))
+    (VP
+      (VBD produced)
+      (NP (DT a) (ADJP (RB markedly) (JJ different)) (NN picture)))
+    (. .)))
+
+#126  Yet they can lose their homes and livelihoods in a few hours.
+log P = -72.65
+(TOP
+  (S
+    (CC Yet)
+    (NP (PRP they))
+    (VP
+      (MD can)
+      (VP
+        (VB lose)
+        (NP
+          (NP (PRP$ their) (NNS homes) (CC and) (NNS livelihoods))
+          (PP (IN in) (NP (DT a) (JJ few) (NNS hours))))))
+    (. .)))
+
+#127  Following his escape, he had undertaken at least five more voyages to the East.
+log P = -89.37
+(TOP
+  (S
+    (S (VBG Following) (NP (PRP$ his) (NN escape)))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD had)
+      (VP
+        (VB undertaken)
+        (NP
+          (NP (IN at) (JJS least) (CD five))
+          (NP (JJR more) (NNS voyages)))
+        (PP (TO to) (NP (DT the) (NNP East)))))
+    (. .)))
+
+#128  The well-made OPAs were easier, whilst the balance sold around last levels.
+log P = -84.43
+(TOP
+  (S
+    (NP (DT The) (JJ well-made) (NNS OPAs))
+    (VP
+      (VBD were)
+      (ADJP (JJR easier))
+      (, ,)
+      (S
+        (VB whilst)
+        (NP
+          (NP (DT the) (NN balance))
+          (VP
+            (VBN sold)
+            (PP (IN around) (NP (JJ last) (NNS levels)))))))
+    (. .)))
+
+#129  Investigators collected samples for chemical analysis, gunshot-residue examination and identification.
+log P = -88.13
+(TOP
+  (SINV
+    (VP (VBZ Investigators))
+    (NP
+      (NP
+        (NP (VBN collected) (NNS samples))
+        (PP (IN for) (NP (NN chemical) (NN analysis))))
+      (, ,)
+      (NP
+        (JJ gunshot-residue)
+        (NN examination)
+        (CC and)
+        (NN identification)))
+    (. .)))
+
+#130  What we are experiencing is something less dramatic, but perhaps more concerning.
+log P = -96.83
+(TOP
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S (NP (PRP we)) (VP (VBP are) (VP (VBG experiencing)))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (NN something))
+        (ADJP
+          (ADJP (RBR less) (JJ dramatic))
+          (, ,)
+          (CC but)
+          (ADJP (RB perhaps) (RBR more) (JJ concerning)))))
+    (. .)))
+
+#131  The Select Best and Best PEKs were selectively dearer, whilst the balance was firm.
+log P = -83.32
+(TOP
+  (S
+    (NP
+      (DT The)
+      (NNP Select)
+      (NNP Best)
+      (CC and)
+      (NNP Best)
+      (NNP PEKs))
+    (VP
+      (VBD were)
+      (ADVP (RB selectively) (JJR dearer))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB whilst))
+        (S (NP (DT the) (NN balance)) (VP (VBD was) (NP (NN firm))))))
+    (. .)))
+
+#132  The later forensic work included DNA analysis and laboratory examination of material evidence.
+log P = -101.24
+(TOP
+  (S
+    (NP (DT The) (JJ later) (JJ forensic) (NN work))
+    (VP
+      (VBD included)
+      (NP
+        (NNP DNA)
+        (NX
+          (NX (NN analysis))
+          (CC and)
+          (NX (NN laboratory) (NN examination))))
+      (PP (IN of) (NP (NN material) (NN evidence))))
+    (. .)))
+
+#133  So perhaps nature is not striking back at us after all.
+log P = -92.84
+(TOP
+  (S
+    (ADVP (RB So) (RB perhaps))
+    (NP (NN nature))
+    (VP
+      (VBZ is)
+      (ADVP
+        (ADVP (RB not) (JJ striking) (RB back))
+        (PP (IN at) (NP (PRP us))))
+      (PP (IN after) (NP (DT all))))
+    (. .)))
+
+#134  The high-priced PEK1s were lower, whilst the balance sold around last levels.
+log P = -85.02
+(TOP
+  (S
+    (NP (DT The) (JJ high-priced) (NN PEK1s))
+    (VP
+      (VBD were)
+      (ADJP (JJR lower))
+      (, ,)
+      (S
+        (VB whilst)
+        (NP
+          (NP (DT the) (NN balance))
+          (VP
+            (VBN sold)
+            (PP (IN around) (NP (JJ last) (NNS levels)))))))
+    (. .)))
+
+#135  The report also incorporated chemical and forensic findings.
+log P = -64.06
+(TOP
+  (S
+    (NP (DT The) (NN report))
+    (ADVP (RB also))
+    (VP
+      (VBN incorporated)
+      (NP (NN chemical) (CC and) (NP (JJ forensic) (NNS findings))))
+    (. .)))
+
+#136  The high-priced FF1s were easier, whilst the balance sold around last levels.
+log P = -86.37
+(TOP
+  (S
+    (NP (DT The) (JJ high-priced) (NN FF1s))
+    (VP
+      (VBD were)
+      (ADJP (JJR easier))
+      (, ,)
+      (S
+        (VB whilst)
+        (NP
+          (NP (DT the) (NN balance))
+          (VP
+            (VBN sold)
+            (PP (IN around) (NP (JJ last) (NNS levels)))))))
+    (. .)))
+
+#137  The significance of the case lies not merely in what happened to one young man.
+log P = -92.31
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN significance))
+      (PP (IN of) (NP (DT the) (NN case))))
+    (VP
+      (VBZ lies)
+      (RB not)
+      (ADVP (RB merely))
+      (PP
+        (IN in)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VBD happened)
+            (PP (TO to) (NP (CD one) (JJ young) (NN man)))))))
+    (. .)))
+
+#138  The teas at the bottom were irregular, following quality.
+log P = -62.12
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NNS teas))
+      (PP (IN at) (NP (DT the) (NN bottom))))
+    (VP
+      (VBD were)
+      (VP (VB irregular) (, ,) (S (VBG following) (NP (NN quality)))))
+    (. .)))
+
+#139  A post-mortem report is often treated as one document among many in a criminal case.
+log P = -103.39
+(TOP
+  (S
+    (NP (DT A) (JJ post-mortem) (NN report))
+    (VP
+      (VBZ is)
+      (RB often)
+      (VP
+        (VBN treated)
+        (ADVP
+          (RB as)
+          (NP (CD one) (NN document))
+          (PP (IN among) (ADJP (JJ many))))
+        (PP (IN in) (NP (DT a) (JJ criminal) (NN case)))))
+    (. .)))
+
+#140  In reality, it can determine the trajectory of an investigation.
+log P = -56.93
+(TOP
+  (S
+    (PP (IN In) (NP (NN reality)))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (MD can)
+      (VP
+        (VB determine)
+        (NP
+          (NP (DT the) (NN trajectory))
+          (PP (IN of) (NP (DT an) (NN investigation))))))
+    (. .)))
+
+#141  Once an initial conclusion enters the case record, subsequent investigators can become anchored to it.
+log P = -101.35
+(TOP
+  (S
+    (SBAR
+      (IN Once)
+      (S
+        (NP (DT an) (JJ initial) (NN conclusion))
+        (VP (VBZ enters) (NP (DT the) (NN case) (NN record)))))
+    (, ,)
+    (NP (JJ subsequent) (NNS investigators))
+    (VP
+      (MD can)
+      (VP (VB become) (VP (VBN anchored) (PP (TO to) (NP (PRP it))))))
+    (. .)))
+
+#142  Questions were also raised about whether gunshot-residue testing had been conducted.
+log P = -83.63
+(TOP
+  (S
+    (NP (NNS Questions))
+    (VP
+      (VBD were)
+      (RB also)
+      (VP
+        (VBN raised)
+        (ADVP (RB about))
+        (SBAR
+          (IN whether)
+          (S
+            (NP (JJ gunshot-residue) (NN testing))
+            (VP (VBD had) (VP (VBN been) (VP (VBN conducted))))))))
+    (. .)))
+
+#143  The subsequent examination found injuries and evidence that complicated the original interpretation.
+log P = -96.31
+(TOP
+  (S
+    (NP (DT The) (JJ subsequent) (NN examination))
+    (VP
+      (VBD found)
+      (NP (NNS injuries) (CC and) (NN evidence))
+      (PP
+        (IN that)
+        (IN complicated)
+        (NP (DT the) (JJ original) (NN interpretation))))
+    (. .)))
+
+#144  The episode illustrates why medico-legal medicine cannot operate as a routine administrative exercise.
+log P = -105.07
+(TOP
+  (S
+    (NP (DT The) (NN episode))
+    (VP
+      (VBZ illustrates)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (JJ medico-legal) (NN medicine))
+          (VP
+            (MD can)
+            (RB not)
+            (VP
+              (VB operate)
+              (PP
+                (IN as)
+                (NP
+                  (DT a)
+                  (JJ routine)
+                  (JJ administrative)
+                  (NN exercise))))))))
+    (. .)))
+
+#145  Every observation can eventually become evidence before a court.
+log P = -63.73
+(TOP
+  (S
+    (NP (DT Every) (NN observation))
+    (VP
+      (MD can)
+      (RB eventually)
+      (VP
+        (VB become)
+        (NP
+          (NP (NN evidence))
+          (PP (IN before) (NP (DT a) (NN court))))))
+    (. .)))
+
+#146  Such failures do not necessarily mean that the underlying evidence is false.
+log P = -86.08
+(TOP
+  (S
+    (NP (JJ Such) (NNS failures))
+    (VP
+      (VBP do)
+      (RB not)
+      (ADVP (RB necessarily))
+      (VP
+        (VB mean)
+        (SBAR
+          (IN that)
+          (S
+            (NP (DT the) (JJ underlying) (NN evidence))
+            (VP (VBZ is) (ADJP (JJ false)))))))
+    (. .)))
+
+#147  Any unexplained gap can provide the defence with grounds to challenge its reliability.
+log P = -74.00
+(TOP
+  (S
+    (NP (DT Any) (JJ unexplained) (NN gap))
+    (VP
+      (MD can)
+      (VP
+        (VB provide)
+        (NP
+          (NP (DT the) (NN defence))
+          (PP (IN with) (NP (NNS grounds))))
+        (S
+          (TO to)
+          (VP (VB challenge) (NP (PRP$ its) (NN reliability))))))
+    (. .)))
+
+#148  The problem begins well before laboratory analysis.
+log P = -51.35
+(TOP
+  (S
+    (NP (DT The) (NN problem))
+    (VP
+      (VBZ begins)
+      (ADVP (RB well))
+      (PP (IN before) (NP (JJ laboratory) (NN analysis))))
+    (. .)))
+
+#149  Crime scenes require careful preservation, documentation, photography, mapping, evidence collection and reconstruction.
+log P = -106.26
+(TOP
+  (S
+    (NP (NN Crime) (NNS scenes))
+    (VP
+      (VBP require)
+      (NP
+        (JJ careful)
+        (NX
+          (NX (NN preservation))
+          (, ,)
+          (NX (NN documentation))
+          (, ,)
+          (NX (NN photography))
+          (, ,)
+          (NX (NN mapping))
+          (, ,)
+          (NX (NN evidence) (NN collection))
+          (CC and)
+          (NX (NN reconstruction)))))
+    (. .)))
+
+#150  Pakistan has long faced criticism over the limited forensic capacity available outside major centres.
+log P = -107.87
+(TOP
+  (S
+    (NP (NNP Pakistan))
+    (VP
+      (VBZ has)
+      (RB long)
+      (VP
+        (VBN faced)
+        (NP (NN criticism))
+        (PP
+          (IN over)
+          (NP
+            (NP (DT the) (JJ limited) (JJ forensic) (NN capacity))
+            (JJ available)
+            (JJ outside)
+            (JJ major)
+            (NNS centres)))))
+    (. .)))
+
